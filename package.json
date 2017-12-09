@@ -1,0 +1,16 @@
+{
+  "name": "replayer-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "preq": "^0.5.3"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "sepia": "2.0.2",
+    "replayer": "2.0.1"
+  }
+}
