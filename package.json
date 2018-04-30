@@ -11,6 +11,6 @@
   "devDependencies": {
     "mocha": "^4.0.1",
     "sepia": "2.0.2",
-    "replayer": "2.0.1"
+    "replayer": "2.2.3"
   }
 }
